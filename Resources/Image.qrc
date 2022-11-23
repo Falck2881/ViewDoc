@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backgraundV1.jpg</file>
+        <file>Darkeum.qss</file>
+    </qresource>
+</RCC>
